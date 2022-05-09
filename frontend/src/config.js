@@ -1,0 +1,1 @@
+const apiEndPoint = '/api';
